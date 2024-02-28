@@ -1,6 +1,6 @@
 <h1 align="center">Hallo 👋, I'm Rif340</h1>
 <h3 align="center">I am a Handsome Ordinary Creature, thank God I am still alive today, I am a Software Engineering developer and quit when the world ended, I am currently hiding in Isekai to avoid the rumble from Eren</h3>
-<img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/Rif340/Gambar-Gambar/main/_954a2d9f-3e48-48c2-8d93-b70601356761.jpeg">
+<img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/Rif340/Gambar-Gambar/main/_954a2d9f-3e48-48c2-8d93-b70601356761.jpeg"><br>
 
 - 🔭 I’m currently working on [🔭 I am currently developing a cashier application as a requirement for school graduation](https://github.com/Rif340/ujikom2023)
 
