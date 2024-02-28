@@ -1,4 +1,4 @@
-<h1 align="center"">Hi THERE👋, I'm Rif340</h1>
+<h1 align="center">Hi THERE👋, I'm Rif340</h1>
 <img width="100%" height="300px" src="https://github.com/Rif340/Gambar-Gambar/blob/main/Purple-ang-White-Bold-Welcome-Youtube-Intro-Video.gif"></img>
 
 # 🌐 Socials:
