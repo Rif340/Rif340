@@ -2,11 +2,6 @@
 <h3 align="center">I am a Handsome Ordinary Creature, thank God I am still alive today, I am a Software Engineering developer and quit when the world ended, I am currently hiding in Isekai to avoid the rumble from Eren</h3>
 <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/Rif340/Gambar-Gambar/main/_954a2d9f-3e48-48c2-8d93-b70601356761.jpeg">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rif340" alt="rif340" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/1stepfromhell_" target="blank"><img src="https://img.shields.io/twitter/follow/1stepfromhell_?logo=twitter&style=for-the-badge" alt="1stepfromhell_" /></a> </p>
-
 - 🔭 I’m currently working on [🔭 I am currently developing a cashier application as a requirement for school graduation](https://github.com/Rif340/ujikom2023)
 
 - 💬 Ask me about **Web aplication**
