@@ -1,5 +1,5 @@
 <h1 align="center"">Hi THERE👋, I'm Rif340</h1>
-<img align="center" width:"100"  src="https://github.com/Rif340/Gambar-Gambar/blob/main/Purple-ang-White-Bold-Welcome-Youtube-Intro-Video.gif">
+<img width:"100"  src="https://github.com/Rif340/Gambar-Gambar/blob/main/Purple-ang-White-Bold-Welcome-Youtube-Intro-Video.gif">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/848567055204876310) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.rippu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
