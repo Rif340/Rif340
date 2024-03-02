@@ -3,7 +3,7 @@
 
 ## 🧑 Spoiler:
 <p>A 12th-grade student at smk ti muhammadiyah 1 cikampek👨‍🎓</p>
-<p>From Cikampek ,Karawang ,Jawa Barat (🇮🇩) </p>
+<p>From Cikampek ,Karawang ,Jawa Barat &#x1F1EE;&#x1F1E9;</p>
 <p>Majoring in software engineering 💻</p>
 <p>Proficient in mastering three elements: Japanese benders, Arabic benders, and Sundanese benders.😆</p>
 
