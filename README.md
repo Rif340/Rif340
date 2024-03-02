@@ -2,9 +2,10 @@
 <img width="100%" height="300px" src="https://github.com/Rif340/Gambar-Gambar/blob/main/Purple-ang-White-Bold-Welcome-Youtube-Intro-Video.gif"></img>
 
 ## 🧑 Spoiler:
-<p>A 12th-grade student at smk ti muhammadiyah 1 cikampek</p>
-<p>From Cikampek ,Karawang ,Jawa Barat</p>
-<p>Proficient in mastering three elements: Japanese, Arabic, and Sundanese.</p>
+<p>A 12th-grade student at smk ti muhammadiyah 1 cikampek👨‍🎓</p>
+<p>From Cikampek ,Karawang ,Jawa Barat 🇮🇩</p>
+<p>Majoring in software engineering 💻</p>
+<p>Proficient in mastering three elements: Japanese benders, Arabic benders, and Sundanese benders.😆</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rf.xyz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.rippu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Wildrrifu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1StepFromHell_) 
